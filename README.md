@@ -1,0 +1,35 @@
+# DiegoMSB
+
+![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
+Olá! 👋  
+Sou Diego, desenvolvedor apaixonado por tecnologia, aprendizado contínuo e colaboração em projetos open source.
+
+## 💼 Experiência
+- Desenvolvedor Full Stack  
+- Contribuidor em projetos da DIO
+
+## 🚀 Tecnologias
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+## 🌟 Projetos em destaque
+- [Meu Portfólio](https://github.com/DiegoMSB/portfolio)
+- [API Node.js](https://github.com/DiegoMSB/api-node)
+- [Clone Netflix com React](https://github.com/DiegoMSB/netflix-clone)
+
+## 📫 Contato
+- GitHub: [DiegoMSB](https://github.com/DiegoMSB)  
+- Email: diego@example.com
+
+## 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegobritodbs)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoMSB&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+## 🧠 Minhas contribuições
+[![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=DiegoMSB&theme=dark)](https://github.com/DiegoMSB)
