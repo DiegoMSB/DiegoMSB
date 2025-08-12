@@ -3,7 +3,7 @@
 Olá! 👋  
 Me chamo Diego e sou formando em Engenharia de Software, com paixão por explorar tecnologias de programação, dados e inteligência artificial. Focado em otimizar processos e proporcionar experiências enriquecedoras aos clientes
 
-🎯 Competências em desenvolvimento: HTML, CSS, JavaScript, Node.Js Git e React (em formação).
+🎯 Competências em desenvolvimento: HTML, CSS, JavaScript, Node.Js, Git e React (em formação).
 
 ## 💼 Experiência
 - Desenvolvedor Full Stack com enfase em back end e ciência de dados.
