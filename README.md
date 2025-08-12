@@ -1,12 +1,12 @@
 # DiegoMSB
 
-![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
 Olá! 👋  
-Sou Diego, desenvolvedor apaixonado por tecnologia, aprendizado contínuo e colaboração em projetos open source.
+Me chamo Diego e sou formando em Engenharia de Software, com paixão por explorar tecnologias de programação, dados e inteligência artificial. Focado em otimizar processos e proporcionar experiências enriquecedoras aos clientes
+
+🎯 Competências em desenvolvimento: HTML, CSS, JavaScript, Node.Js Git e React (em formação).
 
 ## 💼 Experiência
-- Desenvolvedor Full Stack  
+- Desenvolvedor Full Stack com enfase em back end e ciência de dados.
 - Contribuidor em projetos da DIO
 
 ## 🚀 Tecnologias
@@ -23,7 +23,7 @@ Sou Diego, desenvolvedor apaixonado por tecnologia, aprendizado contínuo e cola
 
 ## 📫 Contato
 - GitHub: [DiegoMSB](https://github.com/DiegoMSB)  
-- Email: diego@example.com
+- Email: munizmsb001@gmail.com
 
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegobritodbs)
