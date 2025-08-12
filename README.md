@@ -37,4 +37,4 @@ Me chamo Diego e sou formando em Engenharia de Software, com paixão por explora
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoMSB&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## 🧠 Minhas contribuições
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=DiegoMSB&theme=dark)](https://github.com/DiegoMSB)
+[![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=DiegoMSB&theme=dark)](https://github.com/DiegoMSB)
